@@ -1,0 +1,4 @@
+simpTooltip
+===========
+
+Simple Tooltip plugin
